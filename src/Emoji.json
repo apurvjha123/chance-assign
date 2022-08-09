@@ -1,0 +1,51 @@
+[
+    {
+        "name": "Grinning Face",
+        "message": "Hi there I am emoji",
+        "time": "Tue",
+        "img": "Images/Grinning.png"
+    },
+    {
+        "name": "Winking Face",
+        "message": "Hi there I am emoji",
+        "time": "Wed",
+        "img": "Images/Winking.png"
+    },
+    {
+        "name": "Kissing Face",
+        "message": "Hi there I am emoji",
+        "time": "Fri",
+        "img": "Images/KissingFace.png"
+    },
+    {
+        "name": "Smiling Face",
+        "message": "Hi there I am emoji",
+        "time": "Mon",
+        "img": "Images/Smiling.png"
+    },
+    {
+        "name": "Zany Face",
+        "message": "Hi there I am emoji",
+        "time": "Sun",
+        "img": "Images/Zany.png"
+    },
+    {
+        "name": "Thinking Face",
+        "message": "Hi there I am emoji",
+        "time": "Tue",
+        "img": "Images/Thinking.jpg"
+    },
+    {
+        "name": "Neutral Face",
+        "message": "Hi there I am emoji",
+        "time": "Tue",
+        "img": "Images/Neutral.png"
+    },
+    {
+        "name": "Smirking Face",
+        "message": "Hi there I am emoji",
+        "time": "Tue",
+        "img": "Images/Smirking.png"
+    }
+    
+]

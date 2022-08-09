@@ -1,24 +1,21 @@
-import logo from './logo.svg';
-import './App.css';
+
+import Stories from './Components/Stories'
+import Chats from './Components/Chats'
+
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
+    <>
+      <div className="flex justify-center bg-gray-300 bg-fixed">
+      <section className="flex-col overflow-hidden bg-blue-100 w-[350px]">
+        <p className="w-auto h-10 py-7 px-3 relative flex text-md font-bold">
+          New Connections
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+        <Stories />
+        <Chats />
+      </section>
+      </div>
+    </>
   );
 }
 
