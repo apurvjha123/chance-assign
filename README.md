@@ -10,7 +10,7 @@
 
 # App link
 
-https://chance-assign.netlify.app/
+https://chance-assgin.netlify.app/
 
 
 ## how to use it
